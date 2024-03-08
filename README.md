@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="400" src="header.png">
-<h1 align="center">Hi 👋, I'm Utkarsh Jaiswal</h1>
+<img align="center" alt="Coding" width="100%" src="header.png">
 <h3 align="center">Software Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshml&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshml" /> </p>
