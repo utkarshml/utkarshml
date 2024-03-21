@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs, ExpressJs , Typescript**
 
-- 👨‍💻 All of my projects are available at [https://nodejs-porfolio.vercel.app/](https://nodejs-porfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://utkarshml.github.io/Portfolio/)
 
 - 💬 Ask me about **React , Nodejs , MongoDB and SQL**
 
