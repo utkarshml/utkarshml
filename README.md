@@ -32,6 +32,6 @@
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshml&" alt="utkarshml" /></p>
 
-
+[![An image of @utkarshml's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshml)](https://holopin.io/@utkarshml)
 
 ![snake gif](https://github.com/utkarshml/utkarshml/blob/output/github-contribution-grid-snake.svg)
